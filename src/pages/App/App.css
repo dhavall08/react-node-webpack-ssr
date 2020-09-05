@@ -1,0 +1,15 @@
+.mono {
+  font-family: monospace;
+}
+
+h1 {
+  color: rgb(0, 0, 179);
+}
+
+h2 {
+  color: rgb(102, 37, 255);
+}
+
+img {
+  width: 200px;
+}
